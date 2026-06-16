@@ -16,7 +16,7 @@ public class testgit {
     if ( b != 0 ) {
           System.out.println("The quotient of a and b is: " + (a/b));
     } else {
-
+            System.out.println("Cannot divide by zero");
     }
     }
 
