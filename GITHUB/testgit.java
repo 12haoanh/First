@@ -11,5 +11,14 @@ public class testgit {
         System.out.print("Enter the value of b: ");
         b = sc.nextInt();
         System.out.println("The sum of a and b is: " + (a+b));
+        System .out.println("The difference of a and b is: " + (a-b));
+        System.out.println("The product of a and b is: " + (a*b));  
+    if ( b != 0 ) {
+          System.out.println("The quotient of a and b is: " + (a/b));
+    } else {
+
     }
+    }
+
+    
 }
